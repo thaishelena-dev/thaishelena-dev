@@ -18,10 +18,10 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=purple"/>
-<img src="https://img.shields.io/badge/CSS3-9370DB?style=for-the-badge&logo=css3&logoColor=purple"/>
-<img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=purple"/>
+<p align="center">
+  <img alt="HTML" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="Figma" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </p>
 
 ---
