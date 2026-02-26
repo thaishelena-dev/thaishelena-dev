@@ -1,4 +1,3 @@
-## Olá, me chamo Thais Helena 👋
 <h1 align="center">✨ Oii, eu sou a Thais Helena ✨</h1>
 
 <p align="center">
